@@ -59,7 +59,7 @@ src/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/atteewf/react-emoji-tracker.git
+git clone https://github.com/atteewf/typescript-emoji-tracker.git
 ```
 
 2. Install dependencies:
