@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from "react";
-import { Emoji, LoadingState } from "../types/emoji";
+import type { Emoji, LoadingState } from "../types/emoji";
 import { fetchEmojis } from "../services/api";
 
 interface UseEmojisReturn {

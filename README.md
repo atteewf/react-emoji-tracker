@@ -2,9 +2,9 @@
 
 ## Preview
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](https://github.com/user-attachments/assets/21323f3d-d14f-4389-836d-947e7f787730)
+![alt text](https://github.com/user-attachments/assets/bf66c3f0-d298-4323-9889-4e19c4f9cdeb)
+![alt text](https://github.com/user-attachments/assets/26a8a2a4-bc53-445f-bcfa-a10e9ae9a704)
 
 ## Description
 

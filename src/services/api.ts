@@ -1,4 +1,4 @@
-import { Emoji } from "../types/emoji";
+import type { Emoji } from "../types/emoji";
 
 const BASE_URL = "https://emoji-api.com/emojis";
 const API_KEY = import.meta.env.VITE_EMOJI_API_KEY;

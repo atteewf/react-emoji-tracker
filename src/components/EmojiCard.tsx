@@ -1,4 +1,4 @@
-import { Emoji } from "../types/emoji";
+import type { Emoji } from "../types/emoji";
 
 interface EmojiCardProps {
   emoji: Emoji;

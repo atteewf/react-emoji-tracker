@@ -1,4 +1,4 @@
-import { Emoji, LoadingState } from "../types/emoji";
+import type { Emoji, LoadingState } from "../types/emoji";
 import EmojiCard from "./EmojiCard";
 
 interface EmojiListProps {
